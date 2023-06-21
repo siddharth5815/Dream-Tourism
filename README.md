@@ -1,4 +1,5 @@
-Dream Tourism
+# Dream Tourism
+
 Welcome to the Dream Tourism GitHub repository! This repository contains the source code and project files for the Dream Tourism website. Dream Tourism is a functional and user-friendly tourism website that allows users to browse and book various tour packages, including international, domestic, and cruise packages. The development of this website was done using HTML, CSS, and PHP, with MySQL database for user registration and authentication.
 
 Local Development Setup
